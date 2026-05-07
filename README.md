@@ -70,5 +70,5 @@ Key parameters:
 Predictions are exported as:
 
 ```text
-submission27.csv
+submission.csv
 ```
